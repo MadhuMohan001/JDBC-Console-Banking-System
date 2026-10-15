@@ -239,6 +239,7 @@ Every failure prints a clear message and leaves the data unchanged.
 - [ ] Export the mini statement to CSV
 - [ ] Migrate to Spring Boot with Spring Data JPA as a follow-up project
 
+Author 
 
 ## License
 
